@@ -5,5 +5,5 @@
 Для сборки исполняемого файла необходимо активировать виртуальное окружение, установить зависимости из requirements.txt и выполнить команду: 
 
 ```bash
-pyinstaller guess_number.py --clean --noconfirm --onefile
+pyinstaller game.py --clean --noconfirm --onefile
 ```
